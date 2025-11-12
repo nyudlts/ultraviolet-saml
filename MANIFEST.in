@@ -28,6 +28,7 @@ recursive-include tests *.py
 recursive-include tests *.crt
 recursive-include tests *.key
 recursive-include tests *.xml
+recursive-include tests *.html
 recursive-include .github/workflows *.yml
 
 
